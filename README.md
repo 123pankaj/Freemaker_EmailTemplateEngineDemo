@@ -4,8 +4,8 @@ Enter your host, username & password in application.properties under resources f
 it accept json, below is the json format .
 
 {
-	"senderEmailId":"yourfriends@zestmoney.in",
-	"receiverEmailId":"pankaj@zestmoney.in",
+	"senderEmailId":"sender emailId",
+	"receiverEmailId":"receiver email id",
 	"emailSubject":"Email using FreeMaker Template Engine",
 	"receiverFirstName":"Pankaj",
 	"receiverLastName":"Arora",
