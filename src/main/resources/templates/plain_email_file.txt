@@ -1,0 +1,8 @@
+<html>
+<head></head>
+    <body>
+        <p>Dear ${receiverFirstName} ${receiverLastName},</p>
+        <p>Sending Email using Spring boot with <b>FreeMarker template !!!</b></p>
+        <p>Thanks</p>
+    </body>
+</html>
